@@ -4,14 +4,14 @@
 
 ⚙️ What It Does
 
-✅ Launches Hell Let Loose automatically
-✅ Queries real-time player counts from BattleMetrics
-✅ Joins Soul 1 if it’s below the player threshold (e.g., 70 players)
-✅ Monitors population while idle in the background
-✅ Leaves Soul 1 once it’s full
-✅ Joins Soul 2 if the player count is below 70
-✅ Monitors population while idle in the background
+✅ Launches Hell Let Loose automatically  
+✅ Queries real-time player counts from BattleMetrics  
+✅ Joins Soul 1 if it’s below the player threshold (e.g., 70 players)  
+✅ Monitors population while idle in the background  
+✅ Leaves Soul 1 once it’s full  
+✅ Joins Soul 2 if the player count is below 70  
 ✅ Stops once both servers are full
+
 
 ---
 
