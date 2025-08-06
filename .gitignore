@@ -1,0 +1,19 @@
+# Ignore build files
+build/
+dist/
+*.spec
+
+# Ignore Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Installer output
+installer_output/
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
